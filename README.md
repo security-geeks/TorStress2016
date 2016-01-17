@@ -1,2 +1,2 @@
 # TorStress2016
-A stresser
+A stresser for generating big traffic trough tor nodes
